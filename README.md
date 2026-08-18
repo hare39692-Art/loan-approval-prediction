@@ -94,6 +94,3 @@ probabilities = model.predict_proba(example_scaled)[:, 1]
 
 This project demonstrates that Logistic Regression can effectively predict loan approval outcomes from applicant financial data, with `points` and `credit_score` emerging as the strongest predictors. Such a model could help financial institutions automate initial loan screening and reduce manual review effort.
 
-## 📜 License
-
-Specify a license (e.g. MIT) if you plan to share this repository publicly.
